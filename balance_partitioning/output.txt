@@ -1,8 +1,0 @@
-PS C:\Users\Asus\Desktop\c programs\pucsd_placement_2021\balance_partitioning> ./balance 50
-34
-PS C:\Users\Asus\Desktop\c programs\pucsd_placement_2021\balance_partitioning> ./balance 1000
-706
-PS C:\Users\Asus\Desktop\c programs\pucsd_placement_2021\balance_partitioning> ./balance 10000
-7070
-PS C:\Users\Asus\Desktop\c programs\pucsd_placement_2021\balance_partitioning> ./balance 100000
-65535
