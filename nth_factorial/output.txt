@@ -1,0 +1,18 @@
+PS C:\Users\Asus\Desktop\c programs\pucsd_placement_2021\nth_factorial> ./factorial 0
+0
+PS C:\Users\Asus\Desktop\c programs\pucsd_placement_2021\nth_factorial> ./factorial 12
+144
+PS C:\Users\Asus\Desktop\c programs\pucsd_placement_2021\nth_factorial> ./factorial 27
+196418
+
+
+BONUS PART
+
+PS C:\Users\Asus\Desktop\c programs\pucsd_placement_2021\nth_factorial> ./factorial 0 
+0
+PS C:\Users\Asus\Desktop\c programs\pucsd_placement_2021\nth_factorial> ./factorial 1
+2
+PS C:\Users\Asus\Desktop\c programs\pucsd_placement_2021\nth_factorial> ./factorial 2
+8
+PS C:\Users\Asus\Desktop\c programs\pucsd_placement_2021\nth_factorial> ./factorial 3
+34
