@@ -1,0 +1,19 @@
+PS C:\Users\Asus\Desktop\c programs\pucsd_placement_2021\clock_angle> ./angle 09 00       
+90.00
+PS C:\Users\Asus\Desktop\c programs\pucsd_placement_2021\clock_angle> ./angle 03 30
+75.00
+PS C:\Users\Asus\Desktop\c programs\pucsd_placement_2021\clock_angle> ./angle 05 00
+150.00
+PS C:\Users\Asus\Desktop\c programs\pucsd_placement_2021\clock_angle> ./angle 08 45
+8.00
+
+BONUS PART
+
+PS C:\Users\Asus\Desktop\c programs\pucsd_placement_2021\clock_angle> ./angle 09 00  30
+177.00
+PS C:\Users\Asus\Desktop\c programs\pucsd_placement_2021\clock_angle> ./angle 03 30 45 
+86.00
+PS C:\Users\Asus\Desktop\c programs\pucsd_placement_2021\clock_angle> ./angle 05 00 50
+295.00
+PS C:\Users\Asus\Desktop\c programs\pucsd_placement_2021\clock_angle> ./angle 08 45 05
+240.00
